@@ -48,7 +48,7 @@ namespace EA1_ThisTeam
         //Método que muestra las opciones del menú en la consola.
         private void MostarMenu()
         {
-            Console.WriteLine("Menú del Banco:\n");
+            Console.WriteLine("Menú de la escuela:\n");
             //Recorrer la lista de opciones.
             for (int i = 0; i < opciones.Count; i++)
             {
